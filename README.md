@@ -1,4 +1,4 @@
-# pramodhn.github.io
+# pramodh-natarajan.github.io
 This repository consists of a collection of some of my web-based projects.
 
 tennis
